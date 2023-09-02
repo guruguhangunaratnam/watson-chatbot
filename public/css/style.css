@@ -1,0 +1,16 @@
+html {
+  background-color: #091b29;
+}
+
+.chatElement {
+  height: 100vh;
+  width: 100%;
+}
+
+#WACContainer.WACContainer .WAC__headerContainer {
+  display: none;
+}
+#WACContainer.WACContainer .WAC__messages {
+  background-color: #091b29;
+  font-family: monospace;
+}
